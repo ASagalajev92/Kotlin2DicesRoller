@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My first Kotlin APP</string>
+    <string name="button_roll">Roll</string>
+    <string name="value_of_roll">1</string>
+    <string name="dice2">Dice2</string>
+    <string name="dice_1">Dice 1</string>
+</resources>
